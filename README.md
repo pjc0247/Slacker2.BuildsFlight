@@ -1,6 +1,6 @@
 Slacker2.BuildsFlight
 ====
 
-![](bot.png)
+<img src="bot.png" width="500px" />
 
 
